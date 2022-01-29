@@ -3,7 +3,7 @@ This repository is where I will be storing any of the work related to the tip ca
 
 Calculatip is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Jose Eduardo Paredes
 
 Time spent: 8 hours spent in total
 
@@ -37,6 +37,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+More than anything, understanding how the Swift language works programmatically was a challenge I faced.
 
 ## License
 
